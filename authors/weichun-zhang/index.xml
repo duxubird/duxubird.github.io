@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Weichun Zhang on Xu Du</title>
+    <link>/authors/weichun-zhang/</link>
+    <description>Recent content in Weichun Zhang on Xu Du</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 May 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/weichun-zhang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hybrid photonic-plasmonic molecule based on metal/Si disks</title>
+      <link>/publication/oe13/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/oe13/</guid>
+      <description>Undergraduate work on photonic-electronic device design.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on Xu Du</title>
+    <link>/publication_types/1/</link>
+    <description>Recent content in 1 on Xu Du</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jul 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MU-MIMO beamforming with full-duplex open-loop training</title>
+      <link>/publication/spawc15/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/spawc15/</guid>
+      <description>Enabling open-loop based concurrent channel sounding and beamforming for full-duplex AP and full-duplex clients.</description>
+    </item>
+    
+    <item>
+      <title>MIMO broadcast channel with continuous feedback using full-duplex radios</title>
+      <link>/publication/asil14/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/asil14/</guid>
+      <description>First work to propose concurrent channel sounding and data transmission for full-duplex AP with full-duplex clients.</description>
+    </item>
+    
+  </channel>
+</rss>

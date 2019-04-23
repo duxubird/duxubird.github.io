@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Xu Du</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Xu Du</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Low-Latency</title>
+      <link>/tags/low-latency/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/low-latency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MIMO</title>
+      <link>/tags/mimo/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/mimo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scheduling</title>
+      <link>/tags/scheduling/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/scheduling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>massive MIMO</title>
+      <link>/tags/massive-mimo/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/massive-mimo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Full-duplex</title>
+      <link>/tags/full-duplex/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/full-duplex/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

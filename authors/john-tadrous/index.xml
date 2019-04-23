@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>John Tadrous on Xu Du</title>
+    <link>/authors/john-tadrous/</link>
+    <description>Recent content in John Tadrous on Xu Du</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Dec 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/john-tadrous/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sequential Beamforming for Multiuser MIMO With Full-Duplex Training</title>
+      <link>/publication/seqbf/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/seqbf/</guid>
+      <description>Propose sequential beamforming which utilizes full-duplex AP to reduce MIMO CSI training overhead for half-duplex clients.</description>
+    </item>
+    
+    <item>
+      <title>MU-MIMO beamforming with full-duplex open-loop training</title>
+      <link>/publication/spawc15/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/spawc15/</guid>
+      <description>Enabling open-loop based concurrent channel sounding and beamforming for full-duplex AP and full-duplex clients.</description>
+    </item>
+    
+    <item>
+      <title>MIMO broadcast channel with continuous feedback using full-duplex radios</title>
+      <link>/publication/asil14/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/asil14/</guid>
+      <description>First work to propose concurrent channel sounding and data transmission for full-duplex AP with full-duplex clients.</description>
+    </item>
+    
+  </channel>
+</rss>
