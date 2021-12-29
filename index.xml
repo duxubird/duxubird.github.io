@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xu Du</title>
+    <link>/</link>
+    <description>Recent content on Xu Du</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Nov 2021 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Massive MIMO Channels with Inter-User Angle Correlation: Open-Access Dataset, Analysis and Measurement-Based Validation</title>
+      <link>/publication/21tvt/</link>
+      <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/21tvt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Balance Queueing and Retransmission: Latency-Optimal Massive MIMO Design</title>
+      <link>/publication/retx/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/retx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I joined Facebook in Sep 2019 as a Research Scientist.</title>
+      <link>/post/fbfulltime/</link>
+      <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/fbfulltime/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I successfully defended my Ph.D. with title of &#39;Low-Latency Massive MIMO Design over Practical Channels&#39;.</title>
+      <link>/post/defense/</link>
+      <pubDate>Mon, 15 Apr 2019 14:05:24 -0500</pubDate>
+      
+      <guid>/post/defense/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequential Beamforming for Multiuser MIMO With Full-Duplex Training</title>
+      <link>/publication/seqbf/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/seqbf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MU-MIMO beamforming with full-duplex open-loop training</title>
+      <link>/publication/spawc15/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/spawc15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MIMO broadcast channel with continuous feedback using full-duplex radios</title>
+      <link>/publication/asil14/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/asil14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hybrid photonic-plasmonic molecule based on metal/Si disks</title>
+      <link>/publication/oe13/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/oe13/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

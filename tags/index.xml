@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Xu Du</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Xu Du</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Nov 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>massive MIMO</title>
+      <link>/tags/massive-mimo/</link>
+      <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/massive-mimo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>measurement</title>
+      <link>/tags/measurement/</link>
+      <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/measurement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multi-user MIMO</title>
+      <link>/tags/multi-user-mimo/</link>
+      <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/multi-user-mimo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-Latency</title>
+      <link>/tags/low-latency/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/low-latency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MIMO</title>
+      <link>/tags/mimo/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/mimo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scheduling</title>
+      <link>/tags/scheduling/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/scheduling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Full-duplex</title>
+      <link>/tags/full-duplex/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/full-duplex/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

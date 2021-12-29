@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>multi-user MIMO on Xu Du</title>
+    <link>/tags/multi-user-mimo/</link>
+    <description>Recent content in multi-user MIMO on Xu Du</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Nov 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/multi-user-mimo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Massive MIMO Channels with Inter-User Angle Correlation: Open-Access Dataset, Analysis and Measurement-Based Validation</title>
+      <link>/publication/21tvt/</link>
+      <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/21tvt/</guid>
+      <description>Open-access massive MIMO channel dataset with inter-user channel correlation and theoretical explanation.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ness Shroff on Xu Du</title>
+    <link>/authors/ness-shroff/</link>
+    <description>Recent content in Ness Shroff on Xu Du</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/ness-shroff/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Balance Queueing and Retransmission: Latency-Optimal Massive MIMO Design</title>
+      <link>/publication/retx/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/retx/</guid>
+      <description>Design latency-optimal massive MIMO via optimizing the error rate for balancing queueing and retransmission latency.</description>
+    </item>
+    
+  </channel>
+</rss>

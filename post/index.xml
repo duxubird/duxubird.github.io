@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Xu Du</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Xu Du</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Sep 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>I joined Facebook in Sep 2019 as a Research Scientist.</title>
+      <link>/post/fbfulltime/</link>
+      <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/fbfulltime/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I successfully defended my Ph.D. with title of &#39;Low-Latency Massive MIMO Design over Practical Channels&#39;.</title>
+      <link>/post/defense/</link>
+      <pubDate>Mon, 15 Apr 2019 14:05:24 -0500</pubDate>
+      
+      <guid>/post/defense/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

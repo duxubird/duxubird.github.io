@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Xu Du</title>
+    <link>/authors/</link>
+    <description>Recent content in Authors on Xu Du</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Nov 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ashutosh Sabharwal</title>
+      <link>/authors/ashutosh-sabharwal/</link>
+      <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/ashutosh-sabharwal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xu Du</title>
+      <link>/authors/xu-du/</link>
+      <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/xu-du/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ness Shroff</title>
+      <link>/authors/ness-shroff/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/ness-shroff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yin Sun</title>
+      <link>/authors/yin-sun/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/yin-sun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>John Tadrous</title>
+      <link>/authors/john-tadrous/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/john-tadrous/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chris Dick</title>
+      <link>/authors/chris-dick/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/chris-dick/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hang Zhao</title>
+      <link>/authors/hang-zhao/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/hang-zhao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Min Qiu</title>
+      <link>/authors/min-qiu/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/min-qiu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qiang Li</title>
+      <link>/authors/qiang-li/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/qiang-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qing Wang</title>
+      <link>/authors/qing-wang/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/qing-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weichun Zhang</title>
+      <link>/authors/weichun-zhang/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/weichun-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>admin</title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/admin/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
